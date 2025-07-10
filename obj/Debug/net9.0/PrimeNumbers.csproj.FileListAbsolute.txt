@@ -1,0 +1,14 @@
+D:\Проектики\PrimeNumbers\PrimeNumbers\obj\Debug\net9.0\PrimeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Проектики\PrimeNumbers\PrimeNumbers\obj\Debug\net9.0\PrimeNumbers.AssemblyInfoInputs.cache
+D:\Проектики\PrimeNumbers\PrimeNumbers\obj\Debug\net9.0\PrimeNumbers.AssemblyInfo.cs
+D:\Проектики\PrimeNumbers\PrimeNumbers\obj\Debug\net9.0\PrimeNumbers.csproj.CoreCompileInputs.cache
+D:\Проектики\PrimeNumbers\PrimeNumbers\bin\Debug\net9.0\PrimeNumbers.exe
+D:\Проектики\PrimeNumbers\PrimeNumbers\bin\Debug\net9.0\PrimeNumbers.deps.json
+D:\Проектики\PrimeNumbers\PrimeNumbers\bin\Debug\net9.0\PrimeNumbers.runtimeconfig.json
+D:\Проектики\PrimeNumbers\PrimeNumbers\bin\Debug\net9.0\PrimeNumbers.dll
+D:\Проектики\PrimeNumbers\PrimeNumbers\bin\Debug\net9.0\PrimeNumbers.pdb
+D:\Проектики\PrimeNumbers\PrimeNumbers\obj\Debug\net9.0\PrimeNumbers.dll
+D:\Проектики\PrimeNumbers\PrimeNumbers\obj\Debug\net9.0\refint\PrimeNumbers.dll
+D:\Проектики\PrimeNumbers\PrimeNumbers\obj\Debug\net9.0\PrimeNumbers.pdb
+D:\Проектики\PrimeNumbers\PrimeNumbers\obj\Debug\net9.0\PrimeNumbers.genruntimeconfig.cache
+D:\Проектики\PrimeNumbers\PrimeNumbers\obj\Debug\net9.0\ref\PrimeNumbers.dll
